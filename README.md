@@ -19,3 +19,4 @@ Additionally, due to my limited practical experience, I am looking forward to gu
 3. Export accurate **Gerber / BOM / CPL** files ready for PCB fabrication and SMT assembly at JLCPCB.
 
 Thank you all very much for your feedback and support!
+I mean, I'm trying to copy it 100%, and I want everyone to help complete it by sending a pull request.
